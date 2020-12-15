@@ -58,12 +58,12 @@
 		36955A642588D41100E5D6B0 /* JoinLine */ = {
 			isa = PBXGroup;
 			children = (
+				36955A7E2588D47500E5D6B0 /* Resources */,
+				36955A7D2588D45A00E5D6B0 /* Configuration */,
 				36955A652588D41100E5D6B0 /* AppDelegate.swift */,
 				36955A672588D41100E5D6B0 /* SceneDelegate.swift */,
 				36955A692588D41100E5D6B0 /* ContentView.swift */,
-				36955A6E2588D41200E5D6B0 /* Assets.xcassets */,
 				36955A732588D41200E5D6B0 /* LaunchScreen.storyboard */,
-				36955A762588D41200E5D6B0 /* Info.plist */,
 				36955A6B2588D41100E5D6B0 /* JoinLine.xcdatamodeld */,
 				36955A702588D41200E5D6B0 /* Preview Content */,
 			);
@@ -76,6 +76,22 @@
 				36955A712588D41200E5D6B0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		36955A7D2588D45A00E5D6B0 /* Configuration */ = {
+			isa = PBXGroup;
+			children = (
+				36955A762588D41200E5D6B0 /* Info.plist */,
+			);
+			path = Configuration;
+			sourceTree = "<group>";
+		};
+		36955A7E2588D47500E5D6B0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				36955A6E2588D41200E5D6B0 /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -291,14 +307,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JoinLine/Preview Content\"";
 				DEVELOPMENT_TEAM = 34KF2N2J26;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = JoinLine/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = TeamPlus.JoinLine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -312,14 +331,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JoinLine/Preview Content\"";
 				DEVELOPMENT_TEAM = 34KF2N2J26;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = JoinLine/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = TeamPlus.JoinLine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
