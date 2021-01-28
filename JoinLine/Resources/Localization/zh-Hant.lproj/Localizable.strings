@@ -1,0 +1,226 @@
+/* 
+  Localizable.strings
+  JoinLine
+
+  Created by Lo Fang Chou on 2020/12/21.
+  
+*/
+
+"MSG.Error_Title" = "錯誤訊息";
+
+//Error Message for Notification functions
+"MSG.Error_Notification_FormatError" = "收到的通知資料格式錯誤";
+"MSG.Error_Notification_TypeError" = "收到的通知類別錯誤，無法處理";
+
+//Navigation Bar Title
+"UI.NaviBarTitle_Brand_Detail" = "品牌詳細資料";
+"UI.NaviBarTitle_Custom_Detail" = "團購詳細資料";
+"UI.NaviBarTitle_Setup_Order" = "設定團購單";
+"UI.NaviBarTitle_Preview_Menu" = "預覽團購資訊";
+"UI.NaviBarTitle_Setup_Product_Information" = "設定產品資訊";
+"UI.NaviBarTitle_Activity_Detail" = "活動詳細資料";
+"UI.NaviBarTitle_Preview_Activity" = "預覽活動資訊";
+"UI.NaviBarTitle_Questionnaire_Detail" = "問卷詳細資料";
+"UI.NaviBarTitle_Preview_Questionnaire" = "預覽問卷內容";
+"UI.NaviBarTitle_Setup_Question" = "設定問題";
+"UI.NaviBarTitle_Order_Detail" = "團購詳細內容";
+"UI.NaviBarTitle_Cart_Content" = "購物車內容";
+"UI.NaviBarTitle_Setup_Product" = "設定產品內容";
+"UI.NaviBarTitle_Order_Invitation" = "團購單邀請";
+"UI.NaviBarTitle_Activity_Invitation" = "活動邀請";
+"UI.NaviBarTitle_Questionnaire_Invitation" = "問卷邀請";
+"UI.NaviBarTitle_Order_Summary" = "團購單統計資料";
+"UI.NaviBarTitle_Activity_Summary" = "活動統計資料";
+"UI.NaviBarTitle_Questionnaire_Summary" = "問卷統計資料";
+
+//Utility View
+"UI.SearchBarView_PlaceHolder" = "搜尋 ...";
+"UI.SearchBarView_Cancel" = "取消";
+"UI.SideMenuView_Category" = "品牌分類";
+"UI.CheckBoxEditableView_Option" = "選項";
+
+//View Control Text String
+// ***** Register View
+"UI.Register_Title" = "請輸入手機號碼";
+"UI.Register_Description" = "認證碼將透過簡訊傳至您的手機";
+"UI.Register_PlaceHolder_PhoneNUmber" = "手機號碼";
+"UI.Register_Button_Next" = "下一步";
+
+// ***** Authentication View
+"UI.Authentication_Title" = "手機號碼認證";
+"UI.Authentication_Description" = "請輸入OTP認證碼";
+"UI.Authentication_Button_Auth" = "驗證";
+"UI.Authentication_Button_Previous" = "上一步";
+
+// ***** Main Function View
+"UI.MainFunction_Main_Title" = "主要功能";
+"UI.MainFunction_Other_Title" = "其他功能";
+"UI.MainFunction_Function_Menu" = "揪團購";
+"UI.MainFunction_Function_Activity" = "揪活動";
+"UI.MainFunction_Function_Questionnaire" = "揪問卷";
+"UI.MainFunction_Function_Notification" = "推播訊息";
+"UI.MainFunction_Function_History" = "紀錄";
+"UI.MainFunction_Function_Setting" = "我的設定";
+"UI.MainFunction_Function_About" = "關於";
+
+// ***** Menu List Tab View
+"UI.MenuListTabView_Brand" = "品牌";
+"UI.MenuListTabView_Custom_Menu" = "自訂";
+
+// ***** Brand Menu Detail View
+"UI.BrandMenuDetailView_Button_Order" = "揪\n團購";
+
+// ***** Custom Menu Detail View
+"UI.CustomMenuDetailView_Text_MenuTitle" = "團購標題";
+"UI.CustomMenuDetailView_PlaceHolder_MenuTitle" = "請輸入標題";
+"UI.CustomMenuDetailView_Text_EditContent" = "編輯團購內容";
+"UI.CustomMenuDetailView_Text_MenuLink" = "說明連結";
+"UI.CustomMenuDetailView_PlaceHolder_MenuLink" = "請輸入連結";
+"UI.CustomMenuDetailView_Text_AddProduct" = "新增產品";
+"UI.CustomMenuDetailView_Button_AddMenu" = "新增團購單";
+"UI.CustomMenuDetailView_Button_UpdateMenu" = "更新團購單";
+
+// ***** Custom Menu Detail Preview View
+"UI.CustomMenuDetailPreviewView_Text_MenuTitle" = "團購標題";
+"UI.CustomMenuDetailPreviewView_PlaceHolder_MenuTitle" = "請輸入標題";
+"UI.CustomMenuDetailPreviewView_Text_EditContent" = "編輯團購內容";
+"UI.CustomMenuDetailPreviewView_Text_MenuLink" = "說明連結";
+"UI.CustomMenuDetailPreviewView_PlaceHolder_MenuLink" = "請輸入連結";
+"UI.CustomMenuDetailPreviewView_Text_AddProduct" = "新增產品";
+"UI.CustomMenuDetailPreviewView_Text_AddMenu" = "新增團購單";
+"UI.CustomMenuDetailPreviewView_Text_UpdateMenu" = "更新團購單";
+
+// ***** Edit Custom Product Detail View
+"UI.EditCustomProductDetailView_Text_ProductName" = "產品名稱";
+"UI.EditCustomProductDetailView_PlaceHolder_ProductName" = "請輸入產品名";
+"UI.EditCustomProductDetailView_Text_EditProductContent" = "編輯產品內容";
+"UI.EditCustomProductDetailView_Text_ProductPrice" = "產品價格";
+"UI.EditCustomProductDetailView_PlaceHolder_ProductPrice" = "請輸入產品價格";
+"UI.EditCustomProductDetailView_Text_AddOption" = "新增選項";
+"UI.EditCustomProductDetailView_Menu_Title" = "單選或多選";
+"UI.EditCustomProductDetailView_Menu_Single" = "單選";
+"UI.EditCustomProductDetailView_Menu_Multiple" = "多選";
+"UI.EditCustomProductDetailView_Button_AddProduct" = "新增產品";
+
+// ***** Setup Order View
+"UI.SetupOrderView_Text_OrderDescription" = "揪團說明";
+"UI.SetupOrderView_PlaceHolder_OrderDescription" = "請輸入說明";
+"UI.SetupOrderView_Text_DueDate" = "截止時間";
+"UI.SetupOrderView_Text_PickUpLocation" = "設定取餐地點";
+"UI.SetupOrderView_Text_ContactInformation" = "需提供聯絡資訊";
+"UI.SetupOrderView_Button_Post" = "發佈";
+
+// ***** Activity Detail View
+"UI.ActivityDetailView_Text_ActivityTitle" = "活動標題";
+"UI.ActivityDetailView_PlaceHolder_ActivityTitle" = "請輸入標題";
+"UI.ActivityDetailView_Text_EditActivityContent" = "編輯活動內容";
+"UI.ActivityDetailView_Text_Time" = "時間";
+"UI.ActivityDetailView_Picker_Title" = "活動時間";
+"UI.ActivityDetailView_Text_Location" = "地點";
+"UI.ActivityDetailView_PlaceHolder_Location" = "請輸入活動地點";
+"UI.ActivityDetailView_Button_AddActivity" = "新增活動";
+
+// ***** Activity Detail Preview View
+"UI.ActivityDetailPreviewView_Text_Time" = "時間";
+"UI.ActivityDetailPreviewView_Text_Location" = "地點";
+"UI.ActivityDetailPreviewView_Text_PerticipantPrice" = "人數及費用說明";
+"UI.ActivityDetailPreviewView_Text_PerticipantNumber" = "參加人數";
+"UI.ActivityDetailPreviewView_Button_JoinActivity" = "參加活動";
+
+// ***** Activity Transportation Cell View
+"UI.ActivityTransportationCellView_Text_TransportationWay" = "交通方式";
+"UI.ActivityTransportationCellView_Menu_Title" = "自行前往/大眾運輸";
+"UI.ActivityTransportationCellView_Menu_GoBySelf" = "自行前往";
+"UI.ActivityTransportationCellView_Menu_PublicTransportation" = "大眾運輸";
+"UI.ActivityTransportationCellView_Text_TransportationVehicle" = "交通工具";
+"UI.ActivityTransportationCellView_PlaceHolder_Transportation" = "請輸入交通工具";
+"UI.ActivityTransportationCellView_Text_AssemblyTime" = "集合時間";
+"UI.ActivityTransportationCellView_Picker_AssemblyTime" = "集合時間";
+"UI.ActivityTransportationCellView_Text_MeetingPlace" = "集合地點";
+"UI.ActivityTransportationCellView_PlaceHolder_MeetingPlace" = "請輸入集合地點";
+
+// ***** Activity Perticipant Type Cost Cell View
+"UI.ActivityPerticipantTypeCostCellView_Text_PerticipantNumberPrice" = "人數/費用";
+"UI.ActivityPerticipantTypeCostCellView_Text_Free" = "免費";
+"UI.ActivityPerticipantTypeCostCellView_Menu_Title" = "人數限制";
+"UI.ActivityPerticipantTypeCostCellView_Menu_Limited" = "人數限制";
+"UI.ActivityPerticipantTypeCostCellView_Menu_NoLimit" = "不限人數";
+"UI.ActivityPerticipantTypeCostCellView_PlaceHolder_PerticipantNumber" = "人數";
+"UI.ActivityPerticipantTypeCostCellView_Text_PerticipantType" = "參加者類別";
+"UI.ActivityPerticipantTypeCostCellView_PlaceHolder_Price" = "價格";
+
+// ***** Activity Transportation Preview Cell View
+"UI.ActivityTransportationPreviewCellView_Text_TransportationWay" = "交通方式";
+"UI.ActivityTransportationPreviewCellView_Text_TransportationVehicle" = "交通工具";
+"UI.ActivityTransportationPreviewCellView_Text_AssemblyTime" = "集合時間";
+"UI.ActivityTransportationPreviewCellView_Text_MeetingPlace" = "集合地點";
+
+// ***** Activity Perticipant Type Cost Preview Cell View
+"UI.ActivityPerticipantTypeCostPreviewCellView_Text_Limited" = "人數限制";
+"UI.ActivityPerticipantTypeCostPreviewCellView_Text_NoLimit" = "不限人數";
+
+// ***** Questionnaire Detail View
+"UI.QuestionnaireDetailView_Text_QuestionnaireTitle" = "問卷標題";
+"UI.QuestionnaireDetailView_PlaceHolder_QuestionnaireTitle" = "請輸入標題";
+"UI.QuestionnaireDetailView_Text_EditQuestionnaireContent" = "編輯問卷內容";
+"UI.QuestionnaireDetailView_Text_AddQuestion" = "新增問題";
+"UI.QuestionnaireDetailView_Button_AddQuestionnaire" = "新增問卷";
+
+// ***** Questionnaire Detail Preview View
+"UI.QuestionnaireDetailPreviewView_Button_SendQuestionnaire" = "送出問卷";
+
+// ***** Edit Questionnaire Question View
+"UI.EditQuestionnaireQuestionView_Text_SelectionOptions" = "選擇方式";
+"UI.EditQuestionnaireQuestionView_Menu_Title" = "選擇方式";
+"UI.EditQuestionnaireQuestionView_Menu_Single" = "單選題";
+"UI.EditQuestionnaireQuestionView_Menu_Multiple" = "多選題";
+"UI.EditQuestionnaireQuestionView_Menu_Input" = "自行輸入";
+"UI.EditQuestionnaireQuestionView_Text_QuestionDescription" = "問題描述";
+"UI.EditQuestionnaireQuestionView_PlaceHolder_QuestionDescription" = "請輸入問題描述";
+"UI.EditQuestionnaireQuestionView_Button_AddQuestion" = "新增問題";
+
+// ***** Join Information View
+"UI.JoinInformationView_Button_Enter" = "進入";
+
+// ***** Join Order Setup Product View
+"UI.JoinOrderSetupProductView_Button_AddToCart" = "加入\n購物車";
+"UI.JoinOrderSetupProductView_Text_Quantity" = "數量";
+"UI.JoinOrderSetupProductView_Text_EstimatePrice" = "預估價格";
+"UI.JoinOrderSetupProductView_Comments" = "備註說明";
+
+// ***** Join Order Send Order View
+"UI.JoinOrderSendOrderView_Button_SendOrder" = "送出\n訂單";
+"UI.JoinOrderSendOrderView_Text_PickupLocation" = "取餐地點";
+
+// ***** History Tab View
+"UI.HistoryTabView_Tab_OrderHistory" = "團購紀錄";
+"UI.HistoryTabView_Tab_ActivityHistory" = "活動紀錄";
+"UI.HistoryTabView_Tab_QuestionnaireHistory" = "問卷紀錄";
+
+// ***** History Order Summary View
+"UI.HistoryOrderSummaryView_Text_PerticipantsSummary" = "參與者統計";
+"UI.HistoryOrderSummaryView_Text_DetailInformation" = "詳細資料";
+
+// ***** History Activity Summary View
+"UI.HistoryActivitySummaryView_Text_PerticipantsSummary" = "參與者統計";
+"UI.HistoryActivitySummaryView_Text_DetailInformation" = "詳細資料";
+
+// ***** My Profile View
+"UI.MyProfileView_Section_AccountInformation" = "帳號資訊";
+"UI.MyProfileView_Section_BasicInformation" = "基本資料";
+"UI.MyProfileView_Text_MyQRCode" = "我的條碼";
+"UI.MyProfileView_Text_PhoneNumber" = "手機號碼";
+"UI.MyProfileView_Text_Name" = "姓名";
+"UI.MyProfileView_Text_Gender" = "性別";
+"UI.MyProfileView_Text_Birthday" = "生日";
+"UI.MyProfileView_Text_Address" = "地址";
+"UI.MyProfileView_Button_Update" = "更新資料";
+"UI.MyProfileView_PlaceHolder_Name" = "請輸入姓名";
+"UI.MyProfileView_PlaceHolder_Gender" = "請輸入性別";
+"UI.MyProfileView_PlaceHolder_Birthday" = "請輸入生日";
+"UI.MyProfileView_PlaceHolder_Address" = "請輸入地址";
+
+// ***** About View
+"UI.AboutView_Text_Welcome" = "歡迎使用Join Fun";
+"UI.AboutView_Text_Version" = "版本：";
+"UI.AboutView_Button_OK" = "確定";

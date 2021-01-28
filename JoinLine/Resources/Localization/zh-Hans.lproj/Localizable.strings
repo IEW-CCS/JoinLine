@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  JoinLine
+
+  Created by Lo Fang Chou on 2020/12/21.
+  
+*/
+
+"Error_Title" = "錯誤訊息";
+
+//Error Message for Notification functions
+"Error_Notification_FormatError" = "收到的通知資料格式錯誤";
+"Error_Notification_TypeError" = "收到的通知類別錯誤，無法處理";
+
+//View Control Text String
+// ***** Register View
+"Register_Title" = "認證手機號碼";
+"Register_Description" = "認證碼將透過簡訊傳至您的手機";
+"Register_Button_Next" = "下一步";
+
+// ***** Authentication View
+"Authentication_Title" = "手機號碼認證";
+"Authentication_Description" = "請輸入OTP認證碼";
+"Authentication_Button_Auth" = "驗證";
+"Authentication_Button_Previous" = "上一步";

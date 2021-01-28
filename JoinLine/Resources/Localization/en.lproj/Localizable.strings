@@ -1,0 +1,226 @@
+/* 
+  Localizable.strings
+  JoinLine
+
+  Created by Lo Fang Chou on 2020/12/21.
+  
+*/
+
+"MSG.Error_Title" = "Error Message";
+
+//Error Message for Notification functions
+"MSG.Error_Notification_FormatError" = "The received format of Notification Message is wrong";
+"MSG.Error_Notification_TypeError" = "The received type of Notification Message is wrong";
+
+//Navigation Bar Title
+"UI.NaviBarTitle_Brand_Detail" = "Brand Detail";
+"UI.NaviBarTitle_Custom_Detail" = "Custom Menu Detail";
+"UI.NaviBarTitle_Setup_Order" = "Setup Order";
+"UI.NaviBarTitle_Preview_Menu" = "Preview Menu Information";
+"UI.NaviBarTitle_Setup_Product_Information" = "Setup Product Information";
+"UI.NaviBarTitle_Activity_Detail" = "Activity Detail Information";
+"UI.NaviBarTitle_Preview_Activity" = "Preview Activity Information";
+"UI.NaviBarTitle_Questionnaire_Detail" = "Questionnaire Detail Information";
+"UI.NaviBarTitle_Preview_Questionnaire" = "Preview Questionnaire Information";
+"UI.NaviBarTitle_Setup_Question" = "Setup Question";
+"UI.NaviBarTitle_Order_Detail" = "Order Detail Information";
+"UI.NaviBarTitle_Cart_Content" = "Cart Content";
+"UI.NaviBarTitle_Setup_Product" = "Setup Product";
+"UI.NaviBarTitle_Order_Invitation" = "Order Invitation";
+"UI.NaviBarTitle_Activity_Invitation" = "Activity Invitation";
+"UI.NaviBarTitle_Questionnaire_Invitation" = "Questionnaire Invitation";
+"UI.NaviBarTitle_Order_Summary" = "Order Summary";
+"UI.NaviBarTitle_Activity_Summary" = "Activity Summary";
+"UI.NaviBarTitle_Questionnaire_Summary" = "Questionnaire Summary";
+
+//Utility View
+"UI.SearchBarView_PlaceHolder" = "Search ...";
+"UI.SearchBarView_Cancel" = "Cancel";
+"UI.SideMenuView_Category" = "Category";
+"UI.CheckBoxEditableView_Option" = "Option";
+
+//View Control Text String
+// ***** Register View
+"UI.Register_Title" = "Authenticate Phone Number";
+"UI.Register_Description" = "OTP Code Will Send to Your Cell Phone";
+"UI.Register_PlaceHolder_PhoneNUmber" = "Phone Number";
+"UI.Register_Button_Next" = "Next";
+
+// ***** Authentication View
+"UI.Authentication_Title" = "OTP Code Verification";
+"UI.Authentication_Description" = "Please Input the OTP Code";
+"UI.Authentication_Button_Auth" = "Authenticate";
+"UI.Authentication_Button_Previous" = "Previous";
+
+// ***** Main Function View
+"UI.MainFunction_Main_Title" = "Main Functions";
+"UI.MainFunction_Other_Title" = "Other Functions";
+"UI.MainFunction_Function_Menu" = "Menu & Order";
+"UI.MainFunction_Function_Activity" = "Activity";
+"UI.MainFunction_Function_Questionnaire" = "Questionnaire";
+"UI.MainFunction_Function_Notification" = "Notification";
+"UI.MainFunction_Function_History" = "History";
+"UI.MainFunction_Function_Setting" = "Setting";
+"UI.MainFunction_Function_About" = "About";
+
+// ***** Menu List Tab View
+"UI.MenuListTabView_Brand" = "Brand List";
+"UI.MenuListTabView_Custom_Menu" = "Menu List";
+
+// ***** Brand Menu Detail View
+"UI.BrandMenuDetailView_Button_Order" = "Setup\nOrder";
+
+// ***** Custom Menu Detail View
+"UI.CustomMenuDetailView_Text_MenuTitle" = "Menu Title";
+"UI.CustomMenuDetailView_PlaceHolder_MenuTitle" = "Input Menu Title";
+"UI.CustomMenuDetailView_Text_EditContent" = "Edit Content";
+"UI.CustomMenuDetailView_Text_MenuLink" = "Link";
+"UI.CustomMenuDetailView_PlaceHolder_MenuLink" = "Input Link";
+"UI.CustomMenuDetailView_Text_AddProduct" = "Add Product";
+"UI.CustomMenuDetailView_Button_AddMenu" = "Add Menu";
+"UI.CustomMenuDetailView_Button_UpdateMenu" = "Update Menu";
+
+// ***** Custom Menu Detail Preview View
+"UI.CustomMenuDetailPreviewView_Text_MenuTitle" = "Menu Title";
+"UI.CustomMenuDetailPreviewView_PlaceHolder_MenuTitle" = "Input Menu Title";
+"UI.CustomMenuDetailPreviewView_Text_EditContent" = "Edit Content";
+"UI.CustomMenuDetailPreviewView_Text_MenuLink" = "Link";
+"UI.CustomMenuDetailPreviewView_PlaceHolder_MenuLink" = "Input Link";
+"UI.CustomMenuDetailPreviewView_Text_AddProduct" = "Add Product";
+"UI.CustomMenuDetailPreviewView_Text_AddMenu" = "Add Menu";
+"UI.CustomMenuDetailPreviewView_Text_UpdateMenu" = "Update Menu";
+
+// ***** Edit Custom Product Detail View
+"UI.EditCustomProductDetailView_Text_ProductName" = "Product Name";
+"UI.EditCustomProductDetailView_PlaceHolder_ProductName" = "Input Product Name";
+"UI.EditCustomProductDetailView_Text_EditProductContent" = "Edit Content";
+"UI.EditCustomProductDetailView_Text_ProductPrice" = "Price";
+"UI.EditCustomProductDetailView_PlaceHolder_ProductPrice" = "Input Product Price";
+"UI.EditCustomProductDetailView_Text_AddOption" = "Add Option";
+"UI.EditCustomProductDetailView_Menu_Title" = "Single/Multiple Selection";
+"UI.EditCustomProductDetailView_Menu_Single" = "Single Selection";
+"UI.EditCustomProductDetailView_Menu_Multiple" = "Multiple Selection";
+"UI.EditCustomProductDetailView_Button_AddProduct" = "Add Product";
+
+// ***** Setup Order View
+"UI.SetupOrderView_Text_OrderDescription" = "Order Description";
+"UI.SetupOrderView_PlaceHolder_OrderDescription" = "Input Order Description";
+"UI.SetupOrderView_Text_DueDate" = "Due Date";
+"UI.SetupOrderView_Text_PickUpLocation" = "Pickup Location";
+"UI.SetupOrderView_Text_ContactInformation" = "Contact Information is Necessary";
+"UI.SetupOrderView_Button_Post" = "Post";
+
+// ***** Activity Detail View
+"UI.ActivityDetailView_Text_ActivityTitle" = "Activity Title";
+"UI.ActivityDetailView_PlaceHolder_ActivityTitle" = "Input Activity Title";
+"UI.ActivityDetailView_Text_EditActivityContent" = "Edit Content";
+"UI.ActivityDetailView_Text_Time" = "Time";
+"UI.ActivityDetailView_Picker_Title" = "Activity Time";
+"UI.ActivityDetailView_Text_Location" = "Location";
+"UI.ActivityDetailView_PlaceHolder_Location" = "Input Activity Location";
+"UI.ActivityDetailView_Button_AddActivity" = "Add Activity";
+
+// ***** Activity Detail Preview View
+"UI.ActivityDetailPreviewView_Text_Time" = "Time";
+"UI.ActivityDetailPreviewView_Text_Location" = "Location";
+"UI.ActivityDetailPreviewView_Text_PerticipantPrice" = "Description";
+"UI.ActivityDetailPreviewView_Text_PerticipantNumber" = "Perticipant Number";
+"UI.ActivityDetailPreviewView_Button_JoinActivity" = "Join Activity";
+
+// ***** Activity Transportation Cell View
+"UI.ActivityTransportationCellView_Text_TransportationWay" = "Transportation";
+"UI.ActivityTransportationCellView_Menu_Title" = "Go by Self/Public Transportation";
+"UI.ActivityTransportationCellView_Menu_GoBySelf" = "Go by Self";
+"UI.ActivityTransportationCellView_Menu_PublicTransportation" = "Public Transportation";
+"UI.ActivityTransportationCellView_Text_TransportationVehicle" = "Vehicle";
+"UI.ActivityTransportationCellView_PlaceHolder_Transportation" = "Input Vehicle";
+"UI.ActivityTransportationCellView_Text_AssemblyTime" = "Rendezvous Time";
+"UI.ActivityTransportationCellView_Picker_AssemblyTime" = "Rendezvous Time";
+"UI.ActivityTransportationCellView_Text_MeetingPlace" = "Rendezvous Point";
+"UI.ActivityTransportationCellView_PlaceHolder_MeetingPlace" = "Input Rendezvous Point";
+
+// ***** Activity Perticipant Type Cost Cell View
+"UI.ActivityPerticipantTypeCostCellView_Text_PerticipantNumberPrice" = "Perticipant Number/Price";
+"UI.ActivityPerticipantTypeCostCellView_Text_Free" = "Free";
+"UI.ActivityPerticipantTypeCostCellView_Menu_Title" = "Limitation";
+"UI.ActivityPerticipantTypeCostCellView_Menu_Limited" = "Limited";
+"UI.ActivityPerticipantTypeCostCellView_Menu_NoLimit" = "No Limit";
+"UI.ActivityPerticipantTypeCostCellView_PlaceHolder_PerticipantNumber" = "Perticipant Number";
+"UI.ActivityPerticipantTypeCostCellView_Text_PerticipantType" = "Perticipant Type";
+"UI.ActivityPerticipantTypeCostCellView_PlaceHolder_Price" = "Price";
+
+// ***** Activity Transportation Preview Cell View
+"UI.ActivityTransportationPreviewCellView_Text_TransportationWay" = "Transportation";
+"UI.ActivityTransportationPreviewCellView_Text_TransportationVehicle" = "Vehicle";
+"UI.ActivityTransportationPreviewCellView_Text_AssemblyTime" = "Rendezvous Time";
+"UI.ActivityTransportationPreviewCellView_Text_MeetingPlace" = "Rendezvous Point";
+
+// ***** Activity Perticipant Type Cost Preview Cell View
+"UI.ActivityPerticipantTypeCostPreviewCellView_Text_Limited" = "Limited";
+"UI.ActivityPerticipantTypeCostPreviewCellView_Text_NoLimit" = "No Limit";
+
+// ***** Questionnaire Detail View
+"UI.QuestionnaireDetailView_Text_QuestionnaireTitle" = "Questionnaire Title";
+"UI.QuestionnaireDetailView_PlaceHolder_QuestionnaireTitle" = "Input Questionnaire Title";
+"UI.QuestionnaireDetailView_Text_EditQuestionnaireContent" = "Edit Content";
+"UI.QuestionnaireDetailView_Text_AddQuestion" = "Add Question";
+"UI.QuestionnaireDetailView_Button_AddQuestionnaire" = "Add Questionnaire";
+
+// ***** Questionnaire Detail Preview View
+"UI.QuestionnaireDetailPreviewView_Button_SendQuestionnaire" = "Send Questionnaire";
+
+// ***** Edit Questionnaire Question View
+"UI.EditQuestionnaireQuestionView_Text_SelectionOptions" = "Selection Options";
+"UI.EditQuestionnaireQuestionView_Menu_Title" = "Selection Type";
+"UI.EditQuestionnaireQuestionView_Menu_Single" = "Single Selection";
+"UI.EditQuestionnaireQuestionView_Menu_Multiple" = "Multiple Selection";
+"UI.EditQuestionnaireQuestionView_Menu_Input" = "Free input";
+"UI.EditQuestionnaireQuestionView_Text_QuestionDescription" = "Question Description";
+"UI.EditQuestionnaireQuestionView_PlaceHolder_QuestionDescription" = "Input Question Description";
+"UI.EditQuestionnaireQuestionView_Button_AddQuestion" = "Add Question";
+
+// ***** Join Information View
+"UI.JoinInformationView_Button_Enter" = "Enter";
+
+// ***** Join Order Setup Product View
+"UI.JoinOrderSetupProductView_Button_AddToCart" = "Add To\nCart";
+"UI.JoinOrderSetupProductView_Text_Quantity" = "Quantity";
+"UI.JoinOrderSetupProductView_Text_EstimatePrice" = "Estimate Price";
+"UI.JoinOrderSetupProductView_Comments" = "Comments";
+
+// ***** Join Order Send Order View
+"UI.JoinOrderSendOrderView_Button_SendOrder" = "Send\nOrder";
+"UI.JoinOrderSendOrderView_Text_PickupLocation" = "Pickup Location";
+
+// ***** History Tab View
+"UI.HistoryTabView_Tab_OrderHistory" = "Order History";
+"UI.HistoryTabView_Tab_ActivityHistory" = "Activity History";
+"UI.HistoryTabView_Tab_QuestionnaireHistory" = "Questionnaire History";
+
+// ***** History Order Summary View
+"UI.HistoryOrderSummaryView_Text_PerticipantsSummary" = "Perticipants Summary";
+"UI.HistoryOrderSummaryView_Text_DetailInformation" = "Detail Information";
+
+// ***** History Activity Summary View
+"UI.HistoryActivitySummaryView_Text_PerticipantsSummary" = "Perticipants Summary";
+"UI.HistoryActivitySummaryView_Text_DetailInformation" = "Detail Information";
+
+// ***** My Profile View
+"UI.MyProfileView_Section_AccountInformation" = "Account Information";
+"UI.MyProfileView_Section_BasicInformation" = "Basic Information";
+"UI.MyProfileView_Text_MyQRCode" = "My QR Code";
+"UI.MyProfileView_Text_PhoneNumber" = "Phone Number";
+"UI.MyProfileView_Text_Name" = "Name";
+"UI.MyProfileView_Text_Gender" = "Gender";
+"UI.MyProfileView_Text_Birthday" = "Birthday";
+"UI.MyProfileView_Text_Address" = "Address";
+"UI.MyProfileView_Button_Update" = "Update Data";
+"UI.MyProfileView_PlaceHolder_Name" = "Input Name";
+"UI.MyProfileView_PlaceHolder_Gender" = "Input Gender";
+"UI.MyProfileView_PlaceHolder_Birthday" = "Input Birthday";
+"UI.MyProfileView_PlaceHolder_Address" = "Input Address";
+
+// ***** About View
+"UI.AboutView_Text_Welcome" = "Welcom to Join Fun";
+"UI.AboutView_Text_Version" = "Version: ";
+"UI.AboutView_Button_OK" = "OK";

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Name_01",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000001"
+    },
+    {
+        "name": "Name_02",
+        "type1": "1",
+        "type2": "0",
+        "type3": "0",
+        "price": 0.0,
+        "comments": "Comments_0000002"
+    },
+    {
+        "name": "Name_03",
+        "type1": "2",
+        "type2": "0",
+        "type3": "0",
+        "price": 400.0,
+        "comments": "Comments_0000003"
+    },
+    {
+        "name": "Name_04",
+        "type1": "3",
+        "type2": "1",
+        "type3": "1",
+        "price": 400.0,
+        "comments": "Comments_0000004"
+    },
+    {
+        "name": "Name_05",
+        "type1": "1",
+        "type2": "0",
+        "type3": "0",
+        "price": 400.0,
+        "comments": "Comments_0000005"
+    },
+    {
+        "name": "Name_06",
+        "type1": "5",
+        "type2": "0",
+        "type3": "1",
+        "price": 400.0,
+        "comments": "Comments_0000006"
+    },
+    {
+        "name": "Name_07",
+        "type1": "3",
+        "type2": "1",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000007"
+    },
+    {
+        "name": "Name_15",
+        "type1": "0",
+        "type2": "1",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000015"
+    },
+    {
+        "name": "Name_08",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000008"
+    },
+    {
+        "name": "Name_09",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000009"
+    },
+    {
+        "name": "Name_10",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000010"
+    },
+    {
+        "name": "Name_11",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000011"
+    },
+    {
+        "name": "Name_12",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000012"
+    },
+    {
+        "name": "Name_14",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000014"
+    },
+    {
+        "name": "Name_13",
+        "type1": "2",
+        "type2": "0",
+        "type3": "2",
+        "price": 400.0,
+        "comments": "Comments_0000013"
+    }    
+]
